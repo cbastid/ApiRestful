@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.7.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tarearestful",
+  "description": "Para ejecutar requiere instalar:\r npm install express mongoose",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbastid/ApiRestful.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbastid/ApiRestful/issues"
+  },
+  "homepage": "https://github.com/cbastid/ApiRestful#readme"
 }
